@@ -1,0 +1,11 @@
+.confirm {
+  border-left: 5px solid #dd1717;
+}
+
+.successful {
+  border-left: 5px solid #25bb39;
+}
+
+.error {
+  border-left: 5px solid gray;
+}
